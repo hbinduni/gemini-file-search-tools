@@ -1,0 +1,46 @@
+# Sample Document for Testing Gemini File Search
+
+## Introduction
+
+This is a sample document to test the Gemini File Search CLI demo application. The document contains various types of information that can be queried using semantic search.
+
+## Key Facts
+
+- **Project Name**: Gemini File Search CLI
+- **Technology Stack**: Bun, TypeScript, Google Gemini API
+- **Purpose**: Demonstrate File Search (RAG) capabilities
+
+## Technical Details
+
+### Architecture
+
+The application follows a modular architecture with separate command modules:
+
+1. **Store Commands**: Handle creation, listing, and deletion of File Search stores
+2. **File Commands**: Manage file uploads and imports
+3. **Query Commands**: Enable semantic search and interactive chat
+
+### Features
+
+The CLI supports the following features:
+- Creating and managing File Search stores
+- Uploading documents with automatic chunking for large files
+- Semantic search across uploaded documents
+- Interactive chat mode for conversational queries
+- Citation display for transparent AI responses
+
+## Important Dates
+
+- Project Start: January 2026
+- First Release: January 19, 2026
+- Next Update: February 2026
+
+## Contact Information
+
+For questions about this demo:
+- Repository: gemini-file-search
+- Author: Demo User
+
+## Conclusion
+
+This sample document demonstrates that the File Search API can index and retrieve information from uploaded documents. Try querying for "technical details", "important dates", or "features" to see semantic search in action.
